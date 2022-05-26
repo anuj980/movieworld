@@ -2,42 +2,26 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true" group-title="entertainment",Star Plus HD http://208.86.19.13:81/607.stream/index.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" tvg-id="", EuroNews
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true" group-title="entertainment",Sony https://bit.ly/3fKTNU8seTHd
+#EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" tvg-id="", EuroNews
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
-#EXTINF:-1 tvg-id="zee tv hd" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_TV_HD.png?raw=true" group-title="entertainment",Zee HD http://208.86.19.13:81/606.stream/index.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", AfricaNews English
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1653610759/ei/p8SPYseQJoy9gwO306OgDg/ip/104.209.131.67/id/NQjabLGdP5g.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC325nn98M6-qOZls3iSEUyKU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgOEk7LF7AQzD86tuIzHX-_bW8dypD-2bpJWOcOEO5bgwCIFD-OJ5wDouN1O0dxlDYJPhP6tDKow0NRx-3X4dQXEMP/file/index.m3u8
 
-#EXTINF:-1 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="entertainment",And TV HD http://208.86.19.13:81/703.stream/index.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", NTV Uganda
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1653610760/ei/qMSPYsnwAsvOgwO21oaADA/ip/104.209.131.67/id/5e_DZRTlvsk.1/source/yt_live_broadcast/requiressl/yes/tx/24201176/txs/24201175%2C24201176/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC8TG4TWemXFD3VPmTbb6JU_k/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgCIWH9mTrOYp7XtERWfvaGO4_-1LUqo4bbwD7fWPxHuACIBfRTkWn1TS6rUzqZXF49wQFJ12-JzjpOG5t8EGgjUQm/file/index.m3u8
 
-#EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_SAB_HD.png?raw=true" group-title="entertainment",Sony SAB HD https://bit.ly/3fBsABhd
+#EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Telesur English
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1653610760/ei/qMSPYtWtHYey8wSry7nACw/ip/104.209.131.67/id/U2dYbVzUipw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCwF-xINTMAUfILTqvJt91qFz/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/24064827/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAI8vtZ12CtT8aBaZ5F_n8N4722S4UIphrimtTyDa4y_vAiEAwsBdi4ynXj4iEWqEYG8AkrqraazG3dINj82h2tT_Wsw%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="entertainment",sonypal https://bit.ly/30a3wsONyPal
+#EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", LiveNOW from FOX
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1653610761/ei/qMSPYpfeOdDs8wTpmZm4Ag/ip/104.209.131.67/id/LBnGfKwTtmc.1/source/yt_live_broadcast/requiressl/yes/tx/24027708/txs/24027707%2C24027708%2C24027709%2C24027710%2C24067856/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC-jLd4mNCvtec-RdB7NcaA05/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgKXVLo8poypRd77MyGew6xL_wAGNufNSyPACrCxxtX9QCIAHzbJTa7FqrVVrnBTRI5suHqRs6ohfLtXCcUwL-JYU5/file/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://openboxv8s.com/india/star-bharat-hk.png"group-title="entertainment", Star Bharat HD http://208.86.19.13:81/721.stream/index.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Channels TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1653610761/ei/qcSPYoLcF5O68wSA_oTACw/ip/104.209.131.67/id/dfB0qmJo1eM.617/source/yt_live_broadcast/requiressl/yes/tx/24214267/txs/24214266%2C24214267/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC6dbREG-Po131OKAXOUzlv9E/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPXBmNPWSg4PCRz7ENauyE-TVDuEGSTB3Uv9lsLQIWeOAiEA1tWvHDLKwexnHa4fuXVJzGqjQLTG_CHq42pm5HkKdyk%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="entertainment",COLOR_HD http://208.86.19.13:81/605.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_National.png?raw=true" group-title="entertainment",DD National1 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
-
-.................................................................................................................................................................................................................................................. #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="music",MTV BEATS HD https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
-
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="music",MTV BEATS HD 2 http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="music",9X M https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="music",9X Jalwaa http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg" group-title="music",pop pataka https://live.hungama.com/linear/pop-pataka/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg" group-title="music",Dilse HUNGAMA Hits https://live.hungama.com/linear/dil-se/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg" group-title="music",hadippa https://live.hungama.com/linear/bol-hadippa/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg" group-title="music",Kadak HUNGAMA Hits https://live.hungama.com/linear/kadak-hits/playlist.m3u8
-
-#EXTINF:-1 tvg-id="POP HUNGAMA Hits" tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg" group-title="music",POP HUNGAMA Hits https://live.hungama.com/linear/pop-pataka/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/17.jpg" group-title="music",Nazrana Ghazals HUNGAMA Hits https://live.hungama.com/linear/nazrana/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg" group-title="music",Dhamaal BHOJPURI HUNGAMA https://live.hungama.com/linear/dhamaal/playlist.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_news_18_in.png" tvg-id="", CNN News18
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
