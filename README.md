@@ -2,6 +2,14 @@
 
 #EXTM3U
 
+
+#EXTINF:-1 group-title="Viacom" tvg-logo="" tvg-id="",network 18 7002
+udp://@232.1.1.1:7002
+
+
+#EXTINF:-1 group-title="Viacom" tvg-logo="" tvg-id="", network 18 7001
+udp://@232.1.1.1:7001
+
 #EXTINF:-1 group-title="Viacom" tvg-logo="" tvg-id="", COLORS BANGLA
 udp://@229.1.1.1:2001
 
