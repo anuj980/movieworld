@@ -30,6 +30,6 @@ udp://@229.1.1.1:2005
 
 
 
-#EXTINF:-1 group-title="Viacom" tvg-logo="" tvg-id="", COLORS GUJRAT
-udp://229.1.1.1:2006
+#EXTINF:-1 group-title="Viacom" tvg-logo="" tvg-id="", STAR WORLD PRE HD
+udp://@225.1.2.2:8888
 
